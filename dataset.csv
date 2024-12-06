@@ -1,0 +1,11 @@
+Region,Municipio,Manzanas_Produccion,Anios_Experiencia,Tipo_Produccion,Litros_Leche_Diarios,Raza_Leche,Precio_Litro_Leche,Peso_Ganancia_Engorde,Raza_Engorde,Precio_Kg_Carne,Cabezas_Ganado,Costo_Alimentacion,Costo_Mano_Obra,Costo_Salud,Costo_Otros,Ingreso_Venta_Leche,Ingreso_Venta_Carne,Porcentaje_Autoconsumo,Margen_Ganancia,Factores_Rentabilidad,Satisfaccion_Rentabilidad,Planes_Futuros
+Cuapa,Chontales,5,2,Leche,24,Brama|Joltin|Suiza,20,NA,NA,NA,7,20000,25000,7000,NA,11000,0,30,10,Costos de producción,10,Continuar
+Zelaya,Central,250,2,Ambas,8,Holstein,15,20,Holstein,250,10,10000,18000,3000,2000,900000,1500000,5,20,Precio de Venta,9,Diversificar
+Nueva Guinea,,30,7,Leche,40,Holstein,10,NA,NA,NA,25,10000,7500,3400,4000,12000,6000,20,15,Precio de Venta,7,Continuar
+Acoyapa,,40,3,Ambas,200,Brama,100,NA,Brama,40,Depende,Depende,Depende,1000,Depende,10000,10,20,Acceso a mercados,10,Si
+Cuapa,,NA,1,Leche,5,Pardo,55,350,Braman,20,6,2000,5000,1000,1000,12000,0,10,15,Salud del Ganado,10,Continuar
+San Francisco,Cuapa,40,2,Ambas,40,Braman|Suizo,14,NA,NA,NA,10,2000,3500,2500,0,14000,600,5,10,Costos de producción,5,Continuar
+Managua,,20,10,Carne,50,NA,300,Nelore,110,12,5000,12000,1000,500,0,20000,100,15,15,Precio de Venta,8,Continuar
+El Coral,,20,10,Ambas,40,Holtin,17.75,500,Yerzy,100,40,4000,5000,2000,0,1000,4000,3000,15,15,Precio de Venta,8,Continuar
+San Lorenzo,,200,3,Leche,320,Brama,31200,NA,NA,200,NA,NA,NA,NA,NA,NA,10,10,Costos de producción,3,Continuar
+San Francisco,Cuapa,150,20,Leche,150,Pardo-Brahman|Holstein-Brahman,15,NA,55,150,20000,20000,10000,2000,55000,50000,5,10,Precio de Venta,4,Diversificar
